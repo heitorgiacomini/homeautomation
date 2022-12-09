@@ -1,0 +1,2 @@
+#  pegar cooki
+new HttpContextAccessor().HttpContext?.Request.Cookies["AssociateId"];
